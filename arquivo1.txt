@@ -7,7 +7,14 @@ d
 e
 f
 g
+<<<<<<< HEAD
 Hobi
 i
 Jin
 k
+=======
+Hoseok
+i
+Jimin
+Kookie
+>>>>>>> dev-teste
